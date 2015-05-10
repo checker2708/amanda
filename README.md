@@ -1,2 +1,3 @@
-# Amanda
-the best fucking blog software ever
+# amanda
+
+micro blog engine
